@@ -1,7 +1,3 @@
 # Shopping Cart Images
 
-![ayakkabı sepet](https://user-images.githubusercontent.com/97508155/198705312-155dec63-610c-422f-8578-e75436f0293e.png)
-
-
-
-![ayakkabılar](https://user-images.githubusercontent.com/97508155/198706299-2231171f-a3a0-42eb-be04-a9ff1ad934a6.png)
+![ayakkabılar-sepet](https://user-images.githubusercontent.com/97508155/198707447-7f12ced5-31cb-4cf9-9169-74efa62bce9e.png)![sepet](https://user-images.githubusercontent.com/97508155/198707640-c948f16b-03c4-44eb-8a08-9c8232aaaa47.png)
